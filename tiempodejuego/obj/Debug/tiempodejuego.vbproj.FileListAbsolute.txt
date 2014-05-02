@@ -1,0 +1,13 @@
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\bin\Debug\tiempodejuego.exe
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\bin\Debug\tiempodejuego.pdb
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\bin\Debug\tiempodejuego.xml
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\bin\Debug\Interop.MediaPlayer.dll
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Debug\Interop.MediaPlayer.dll
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Debug\tiempodejuego.vbproj.ResolveComReference.cache
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Debug\tiempodejuego.Form1.resources
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Debug\tiempodejuego.Resources.resources
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Debug\tiempodejuego.vbproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Debug\tiempodejuego.exe
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Debug\tiempodejuego.xml
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Debug\tiempodejuego.pdb

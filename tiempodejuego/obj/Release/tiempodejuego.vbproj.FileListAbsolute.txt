@@ -1,0 +1,30 @@
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\Interop.MediaPlayer.dll
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.vbproj.ResolveComReference.cache
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.exe
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.xml
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.pdb
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\bin\Release\tiempodejuego.exe
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\bin\Release\tiempodejuego.pdb
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\bin\Release\tiempodejuego.xml
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\bin\Release\Interop.MediaPlayer.dll
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\ResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.Form1.resources
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.Resources.resources
+D:\Documentos\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.vbproj.GenerateResource.Cache
+C:\Users\Dani Peiró\Documents\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\Interop.MediaPlayer.dll
+C:\Users\Dani Peiró\Documents\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.vbproj.ResolveComReference.cache
+C:\Users\Dani Peiró\Documents\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.exe
+C:\Users\Dani Peiró\Documents\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.xml
+C:\Users\Dani Peiró\Documents\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.pdb
+C:\Users\Dani Peiró\Documents\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\bin\Release\tiempodejuego.exe
+C:\Users\Dani Peiró\Documents\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\bin\Release\tiempodejuego.pdb
+C:\Users\Dani Peiró\Documents\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\bin\Release\tiempodejuego.xml
+C:\Users\Dani Peiró\Documents\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\bin\Release\Interop.MediaPlayer.dll
+C:\Users\Dani Peiró\Documents\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.Form1.resources
+C:\Users\Dani Peiró\Documents\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.Resources.resources
+C:\Users\Dani Peiró\Documents\Visual Studio 2008\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.vbproj.GenerateResource.Cache
+C:\Users\Dani Peiró\Documents\Visual Studio 2013\Projects\tiempodejuego\tiempodejuego\obj\Release\Interop.MediaPlayer.dll
+C:\Users\Dani Peiró\Documents\Visual Studio 2013\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.vbproj.ResolveComReference.cache
+C:\Users\Dani Peiró\Documents\Visual Studio 2013\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.exe
+C:\Users\Dani Peiró\Documents\Visual Studio 2013\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.xml
+C:\Users\Dani Peiró\Documents\Visual Studio 2013\Projects\tiempodejuego\tiempodejuego\obj\Release\tiempodejuego.pdb

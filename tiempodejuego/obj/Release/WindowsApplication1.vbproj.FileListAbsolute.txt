@@ -1,0 +1,13 @@
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\Interop.MediaPlayer.dll
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\Interop.MediaPlayer.dll
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\tiempodejuego.exe
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\tiempodejuego.pdb
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\tiempodejuego.xml
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\tiempodejuego.Form1.resources
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\tiempodejuego.Resources.resources
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\tiempodejuego.exe
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\tiempodejuego.xml
+C:\Users\Dani_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Release\tiempodejuego.pdb
